@@ -7,5 +7,5 @@ This project focuses on creating a clean UI, mobile-friendly layout, and smooth 
 
 🚀 Live Preview
 
-🔗 link:- https://wikiclone01.ccbp.tech/
+🔗 link:- https://nessmart.ccbp.tech/
 
