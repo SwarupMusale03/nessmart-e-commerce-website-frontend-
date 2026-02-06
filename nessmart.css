@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 72px;
+    width: 85px;
+}
+
+.services-main-heading {
+    font-size: 35px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.services-main-description {
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.service-card-image {
+    height: 125px;
+    width: 120px;
+}
+
+.service-card-name {
+    font-size: 24px;
+    color: #616c7c;
+}
+
+.service-card-description {
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.span-element {
+    font-family: "Helvetica";
+}
+
+.product-section_main-header {
+    font-size: 35px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.product-card {
+    padding: 10px;
+    height: 628px;
+    border-radius: 16px;
+}
+
+.headphones-bg-container {
+    background-image: url("https://res.cloudinary.com/dpvcn791e/image/upload/v1754065558/Sony_headphones_p47n9h.jpg");
+    background-size: cover;
+}
+
+.product-name {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.product-description {
+    color: white;
+    font-size: 22px;
+}
+
+.modal-description {
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.card-modal-button {
+    background-color: yellow;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 130px;
+    text-align: center;
+    color: black;
+    height: 40px;
+}
+
+.modal-button-buy {
+    border-width: 1px;
+    border-radius: 5px;
+    height: 60px;
+    width: 130px;
+}
+
+
+.laptop-bg-container {
+    background-image: url("https://res.cloudinary.com/dpvcn791e/image/upload/v1754113095/computer_axlq1i.jpg");
+    background-size: cover;
+}
+
+.mobile-bg-container {
+    background-image: url("https://res.cloudinary.com/dpvcn791e/image/upload/v1754118341/Samsung_galaxy_S24_ultra_q9iqf9.jpg");
+    background-size: cover;
+}
+
+.wifirouter-bg-container {
+    background-image: url("https://res.cloudinary.com/dpvcn791e/image/upload/v1754120775/Upgrade_Wi-Fi_Now_whvct4.jpg");
+    background-size: cover;
+}
+
+.main-heading-blogs {
+    font-size: 27px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.blogs-card-section {
+    background-color: white;
+    margin: 10px;
+}
+
+.blogs-card-image {
+    width: 100%;
+    background-size: cover;
+}
+
+.about-blog {
+    font-size: 16px;
+    color: #959ead;
+
+}
+
+.header-of-blog-card {
+    font-size: 22px;
+    color: #183b56;
+
+    font-weight: bold;
+}
+
+.blog-description {
+    font-size: 18px;
+    color: #959ead;
+
+}
+
+.read-more-anch-button {
+    color: #ff9f00;
+    font-size: 15px;
+
+}
+
+.arrow {
+    color: #ff9f00;
+}
+
+.contact-us-button {
+    background-color: white;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+    height: 50px;
+    width: 140px;
+    border-color: yellow;
+    font-weight: bold;
+    color: #ff9f00;
+}
+
+
+.footer-section {
+    background-color: #0d2436;
+
+}
+
+
+
+
+.social-media-icons-container {
+    background-color: #152c3e;
+    color: #5a7184;
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 5px;
+
+}
+
+.icon {
+    text-align: center;
+    height: 35px;
+    width: 35px;
+    padding-top: 15px;
+}
+
+.adress {
+    color: #5a7184;
+    margin: 5px;
+}
+
+.sub-headings {
+    font-size: 22px;
+    color: #5a7184;
+    margin: 10px;
+
+}
+
+.sub-descriptions {
+    color: #5a7184;
+    margin: 10px;
+}
+
+.line {
+    background-color: #5a7184;
+}
